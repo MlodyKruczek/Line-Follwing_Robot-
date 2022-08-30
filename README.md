@@ -6,4 +6,4 @@ Project made by:
 Michał Krukowski 	
 Michalina Janik 
 
-Arduino implementation of line follwing robot 
+Arduino implementation of line following robot 
